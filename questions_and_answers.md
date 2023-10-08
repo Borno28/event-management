@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B
 
-<i>Write your explanation here</i>
+<i>JavaScript will throw a ReferenceError because greetign isn't defined.</i>
 
 </p>
 </details>
